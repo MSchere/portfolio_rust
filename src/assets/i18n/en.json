@@ -1,0 +1,188 @@
+{
+    "header": {
+        "item1": "About me",
+        "item2": "Experience",
+        "item3": "Projects",
+        "item4": "Contact",
+        "cvBtn": "Resume",
+        "cvName": "Europass_EN.pdf"
+    },
+    "banner": {
+        "pretitle": "Hello world! My name is",
+        "description": ["I'm working on building high quality products on <span class='underline'>Web 3.0</span> and <span class='underline'>The Metaverse</span>. I'm hoping to be able to bring these new and exciting technologies to millions of people and hopefully be able to improve their lives in some way or another."],
+        "actionBtn": "Send me an email"
+    },
+    "aboutMe": {
+        "title": "About me",
+        "paragraphs": [
+            "Being a <span class='underline'>blockchain developer</span> requires me to be a continuous learner as the space moves much quicker than my knowledge about it. However, I find learning as one of the biggest pleasures in my life along with doing exercise, playing videogames and spending time with my family and friends.",
+            "I also have experience developing traditional finance systems for wholesale banking and data reconciliation scripts.",
+            "I love working with new and <span class='underline'>disruptive technologies</span> that have the power to change how we interact with money, things and people.",
+            "Some of the technologies that I have used include:"
+        ],
+        "skills": [
+            "Solidity", "IPFS", "Ethers.js", "Hardhat", "Angular", "MongoDB", "Nest.js", "Docker", "Jenkins"
+        ]
+    },
+    "experience": {
+        "title": "Studies & Experience",
+        "jobs": [
+            {
+                "tab": "CryptoAvatars",
+                "title": "Blockchain developer",
+                "date": "September 2022 - Ongoing",
+                "description": [
+                    "Development of the <span class='underline'>CryptoAvatars</span> project. A Web 3.0 marketplace where anyone can buy or create tokenized avatars ready for multiple metaverses and <span class='underline'>EVM-compatible blockchains</span>.",
+                    "Development of the CA-Marketplace <span class='underline'>smart contract</span>, integration of frontend and backend systems with the supported chains.",
+                    "Working in a 10 person <span class='underline'>Scrum team</span>.",
+                    "Hardhat, Solidity, Typescript, Ethers.js, Angular, Nest.js, OpenZeppelin, Metamask."
+                ]
+            },
+            {
+                "tab": "UEM",
+                "title": "Master's Degree in Blockchain",
+                "date": "March 2022 - July 2022",
+                "description": [
+                    "Master's degree taken at <span class='underline'>Universidad Europea</span>, a prestigious Spanish private university.",
+                    "Learnt how to develop blockchain systems using <span class='underline'>Solidity</span> and deploying them on various EVM-compatible blockchains such as <span class='underline'>Ethereum</span>, <span class='underline'>Polygon</span> and <span class='underline'>Avalanche</span>.",
+                    "Created nodes of the main blockchain networks such as <span class='underline'>Bitcoin</span>, <span class='underline'>Ethereum</span> and <span class='underline'>Hyperledger Fabric</span>.",
+                    "My final master's degree project was <span class='underline'>Gastroo</span>, a Web 3.0 Dapp that allows foodies to monetize their culinary contents by creating NFTs with their recipes embedded into them."
+                ]
+            },
+            {
+                "tab": "NWorld",
+                "title": "Consultant",
+                "date": "September 2021 - August 2022",
+                "description": [
+                    "Development and maintenance of wholesale banking systems for <span class='underline'>BBVA</span>, a Spanish multinational bank.",
+                    "Developed frontend and backend systems using Java, <span class='underline'>Kotlin</span> and PHP.",
+                    "Creation of data reconciliation scripts using <span class='underline'>Python</span> and the <span class='underline'>Pandas</span> library.",
+                    "MySQL, Oracle, Bitbucket, Jira, Jenkins, Unix etc."
+                ]
+            },
+            {
+                "tab": "UAH",
+                "title": "Computer Engineering",
+                "date": "September 2017 - September 2021",
+                "description": [
+                    "Engineering degree taken at <span class='underline'>Universidad de Alcalá</span>, a Spanish public university.",
+                    "The most challenging 4 years of my life, in which I developed a great variety of projects, some of which include a <span class='underline'>self-driving car controller</span> using ADA and the TORCS simulator, a <span class='underline'>compiler</span> for a custom programming language written in Java and a <span class='underline'>fast-food restaurant app</span> using Android Studio.",
+                    "As my final degree project, I developed a prototype on FreeRTOS and RISC-V of the application software of the EPD ICU onboard <span class='underline'>Solar Orbiter</span>. The EPD ICU is a device used to measure the solar wind and the magnetic field of the Sun and it's mounted on Solar Orbiter, a mission of the <span class='underline'>European Space Agency</span>."
+                ]
+            }
+        ]
+    },
+    "featuredProjects": {
+        "title": "My projects",
+        "label": "Featured Project",
+        "projects": [
+            {
+                "title": "Gastroo",
+                "description": "A Web 3.0 Dapp that allows foodies to monetize their culinary contents by creating NFTs with their recipes embedded into them.",
+                "img": "assets/images/gastroo.png",
+                "ghLink": "https://github.com/MSchere/gastroo_dapp",
+                "demoLink": "http://gastroo.es",
+                "technologies": [
+                    "Solidity",
+                    "React",
+                    "Moralis",
+                    "SCSS",
+                    "Web3.js"
+                ]
+            },
+            {
+                "title": "CryptoAvatars",
+                "description": "A Web 3.0 marketplace where anyone can buy tokenized avatars ready for multiple metaverses and EVM-compatible blockchains. More coming soon!",
+                "demoLink": "https://cryptoavatars.io",
+                "img": "assets/images/ca.png",
+                "technologies": [
+                    "Solidity",
+                    "Angular",
+                    "SCSS",
+                    "Nest.js",
+                    "Ethers.js",
+                    "MongoDB",
+                    "Redis"
+                ]
+            },
+            {
+                "title": "Halo Weapons NFT",
+                "description": "A simple demo project in which a user can mint Opensea-compatible NFTs with 3D models of Halo weapons embedded into them.",
+                "demoLink": "https://mschere.github.io/Halo_Weapons_NFT_frontend",
+                "ghLink": "https://github.com/MSchere/Halo_Weapons_NFT",
+                "img": "assets/images/halo.png",
+                "technologies": [
+                    "Solidity",
+                    "Angular",
+                    "SCSS",
+                    "ethers.js",
+                    "Model Viewer"
+                ]
+            },
+            {
+                "title": "BBVA Risks Reconciliation",
+                "description": "An internal tool used by BBVA to detect and study discrepancies in operational imports between front and back office systems.",
+                "img": "assets/images/bbva.png",
+                "technologies": [
+                    "Python",
+                    "Pandas",
+                    "Streamlit",
+                    "Anaconda"
+                ]
+            },
+            {
+                "title": "InstantEat",
+                "description": "A sample Android app that allows users to order food from various restaurants, pay using various payment methods and track their order in real time. It was meant to demonstrate the use of different design patterns.",
+                "img": "assets/images/instant_eat.png",
+                "ghLink": "https://github.com/MSchere/instantEat",
+                "technologies": [
+                    "Android Studio",
+                    "Java",
+                    "SQLite"
+                ]
+            }
+        ]
+    },
+    "otherProjects": {
+        "title": "More projects",
+        "projects": [
+            {
+                "title": "Vega SDK",
+                "description": "SDK with custom LPUART functionality for the OpenISA Vegaboard. Used to develop the Solar Orbiter FreeRTOS EPD ICU port from my final degree project.",
+                "ghLink": "https://github.com/MSchere/Vega_sdk",
+                "technologies": [
+                    "C",
+                    "RISC-V",
+                    "Eclipse",
+                    "Unix"
+                ]
+            },
+            {
+                "title": "Self Driving Car PID",
+                "description": "University project for the Real Time Systems class. Implements a PID controller written in ADA that makes a car drive itself in the TORCS simulator.",
+                "ghLink": "https://github.com/MSchere/SelfDrivingCar",
+                "technologies": [
+                    "C++",
+                    "C",
+                    "Ada",
+                    "TORCS"
+                ]
+            },
+            {
+                "title": "Compiler",
+                "description": "University project for the Compilers class. Implements a compiler for a custom language written in Java. It uses ANTLR to parse the language and LLVM to generate the code.",
+                "ghLink": "https://github.com/MSchere/PL3Compiladores",
+                "technologies": [
+                    "Java",
+                    "ANTLR"
+                ]
+            }
+        ]
+    },
+    "contact": {
+        "pretitle": "What's Next",
+        "title": "Get in touch",
+        "content": "My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you!",
+        "btn": "Say Hello"
+    }
+}

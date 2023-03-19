@@ -1,0 +1,9 @@
+pub(crate) mod home;
+pub(crate) mod header;
+pub(crate) mod footer;
+pub(crate) mod about;
+pub(crate) mod banner;
+pub(crate) mod contact;
+pub(crate) mod jobs;
+pub(crate) mod projects;
+pub(crate) mod other_projects;
